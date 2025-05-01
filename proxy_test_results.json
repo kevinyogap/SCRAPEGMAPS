@@ -1,0 +1,95 @@
+{
+  "test_date": "2025-04-26 12:00:50",
+  "proxy_results": [
+    {
+      "proxy": "103.39.49.98:8080",
+      "working": false,
+      "response_time": 43.92,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "146.196.110.13:3888",
+      "working": false,
+      "response_time": 4.75,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "27.112.66.98:8181",
+      "working": false,
+      "response_time": 5.42,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "103.135.24.2:8080",
+      "working": false,
+      "response_time": 6.51,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "43.247.36.126:8080",
+      "working": false,
+      "response_time": 3.62,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "122.144.4.134:63123",
+      "working": false,
+      "response_time": 3.89,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "103.135.48.210:8080",
+      "working": false,
+      "response_time": 4.44,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "119.110.69.102:57788",
+      "working": false,
+      "response_time": 6.09,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "103.162.16.47:8080",
+      "working": false,
+      "response_time": 5.15,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    },
+    {
+      "proxy": "103.162.16.115:8080",
+      "working": false,
+      "response_time": 5.83,
+      "ip_detected": "",
+      "errors": [
+        "Could not extract IP from page"
+      ]
+    }
+  ]
+}

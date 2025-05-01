@@ -1,0 +1,1107 @@
+[
+  {
+    "title": "Hill of Gibeon",
+    "link": "https://www.google.com/maps/place/Hill+of+Gibeon/data=!4m7!3m6!1s0x3031eff6c71c6fd7:0x56ef2b4447dda14!8m2!3d2.5908281!4d98.9978528!16s%2Fg%2F11d_8bbvln!19sChIJ128cx_bvMTARFNp9RLTybgU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPDPiKk9TGr809tX5lR6kNDbH8rVrgM-Q6r-zL9=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Hill of Gibeon_1745853357.jpg",
+    "rating": 4.5,
+    "reviews": 456,
+    "address": "Unnamed Road, Kabupaten Toba Samosir, 21174",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Danau Toba Parapat",
+    "link": "https://www.google.com/maps/place/Danau+Toba+Parapat/data=!4m7!3m6!1s0x3031ec0aec8857d1:0x64c153b8e68294d4!8m2!3d2.68382!4d98.926076!16s%2Fg%2F11ckr980kr!19sChIJ0VeI7ArsMTAR1JSC5rhTwWQ?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMPHg_gBWuHX-nq-P444RoNYSUUg2FdaVZXmeKr=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Danau Toba Parapat_1745853359.jpg",
+    "rating": 4.7,
+    "reviews": 510,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Bukit Burung",
+    "link": "https://www.google.com/maps/place/Bukit+Burung/data=!4m7!3m6!1s0x3031cf7ece9fab7f:0xc7cbbe47e41a27f4!8m2!3d2.6316978!4d98.6549115!16s%2Fg%2F11df3ncssj!19sChIJf6ufzn7PMTAR9Cca5Ee-y8c?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipP4Sq0gdE9VtEe9ydDPuCUx3hcCMErbOU-YEzCj=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Burung_1745853361.jpg",
+    "rating": 4.8,
+    "reviews": 140,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pantai Bebas Parapat Danau Toba",
+    "link": "https://www.google.com/maps/place/Pantai+Bebas+Parapat+Danau+Toba/data=!4m7!3m6!1s0x3031ec1ce767b511:0x7a933989fde98bcc!8m2!3d2.6683978!4d98.9370427!16s%2Fg%2F11bv38pln4!19sChIJEbVn5xzsMTARzIvp_Yk5k3o?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNMGn_lGHSr51judfoEL6YpZwLDj2URLmJcv3dy=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Bebas Parapat Danau Toba_1745853363.jpg",
+    "rating": 4.5,
+    "reviews": 166,
+    "address": "MW9Q+G38 Danau Toba, Jl. Sisingamangaraja",
+    "opening_hours": "Open now"
+  },
+  {
+    "title": "Bukit Sibeabea",
+    "link": "https://www.google.com/maps/place/Bukit+Sibeabea/data=!4m7!3m6!1s0x3031db06803ec9f5:0xc95cb1fb76492ad6!8m2!3d2.5506701!4d98.6735887!16s%2Fg%2F11rgg_wcd1!19sChIJ9ck-gAbbMTAR1ipJdvuxXMk?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPYZSnw9w0CcaKHGeq48mGAU5-eb34bS0OS4Tbl=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Sibeabea_1745853365.jpg",
+    "rating": 4.6,
+    "reviews": 866,
+    "address": ""
+  },
+  {
+    "title": "Gunung Pusuk Buhit",
+    "link": "https://www.google.com/maps/place/Gunung+Pusuk+Buhit/data=!4m7!3m6!1s0x3031cf7595647c91:0x8e1aea7d8321e10f!8m2!3d2.6005483!4d98.6515671!16s%2Fg%2F11fk1rcfgj!19sChIJkXxklXXPMTARD-Ehg33qGo4?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN0sWhWJuBTZfT9yvv6q0sQNvaKD9Zuea1TXhbP=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Gunung Pusuk Buhit_1745853369.jpg",
+    "rating": 4.8,
+    "reviews": 89,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Aek Rangat",
+    "link": "https://www.google.com/maps/place/Aek+Rangat/data=!4m7!3m6!1s0x3031db9325239f09:0xb4ecb7e34f9a528f!8m2!3d2.6186837!4d98.6755199!16s%2Fg%2F11fz7h1129!19sChIJCZ8jJZPbMTARj1KaT-O37LQ?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipM7HDbpF7gVQClmbD108kfulx-UWQzVYeZ7lTxh=w139-h92-k-no",
+    "local_image_path": "gmaps_images\\Aek Rangat_1745853370.jpg",
+    "rating": 4.3,
+    "reviews": 619,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Air Terjun Binanga Bolon",
+    "link": "https://www.google.com/maps/place/Air+Terjun+Binanga+Bolon/data=!4m7!3m6!1s0x3031bb94e29fccf9:0x26a7847541d74b70!8m2!3d2.8461519!4d98.7288489!16s%2Fg%2F11f_j0btyz!19sChIJ-cyf4pS7MTARcEvXQXWEpyY?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPpH_J0G7gfcJFbXYnwBd7q0PCpku0aB_6nFcrR=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Air Terjun Binanga Bolon_1745853372.jpg",
+    "rating": 4.5,
+    "reviews": 37,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Bukit Senyum",
+    "link": "https://www.google.com/maps/place/Bukit+Senyum/data=!4m7!3m6!1s0x3031e92d8ff12afb:0x95ba3b586458e443!8m2!3d2.6357725!4d98.9210627!16s%2Fg%2F11cmnmjg7m!19sChIJ-yrxjy3pMTARQ-RYZFg7upU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipM9herOK8rnNt_txL0qCIfO2i-8x5U8dSJcAsiQ=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Senyum_1745853374.jpg",
+    "rating": 4.6,
+    "reviews": 599,
+    "address": ""
+  },
+  {
+    "title": "Pantai Indah Situngkir (PIS)",
+    "link": "https://www.google.com/maps/place/Pantai+Indah+Situngkir+%28PIS%29/data=!4m7!3m6!1s0x3031c64f76d9e88b:0xe61959a1d30900db!8m2!3d2.6978299!4d98.6900263!16s%2Fg%2F11b7819pg6!19sChIJi-jZdk_GMTAR2wAJ06FZGeY?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPyZD_WsgDMCslGCFd_u3qjEjQAc3WPO7M_s6Ye=w189-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Indah Situngkir (PIS)_1745853377.jpg",
+    "rating": 4.3,
+    "reviews": 231,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Air Terjun Sigarattung (Sampuran Na Pitu)",
+    "link": "https://www.google.com/maps/place/Air+Terjun+Sigarattung+%28Sampuran+Na+Pitu%29/data=!4m7!3m6!1s0x3031e843d6aa3655:0xe888c8532da5c761!8m2!3d2.6100738!4d98.8641736!16s%2Fg%2F11crzqcw0s!19sChIJVTaq1kPoMTARYcelLVPIiOg?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMzcOTRwUCGe3JyzHpRqBRHGhj_ciIe2WTMwODL=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Air Terjun Sigarattung (Sampuran Na Pitu)_1745853379.jpg",
+    "rating": 4.5,
+    "reviews": 313,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pantai Kenangan",
+    "link": "https://www.google.com/maps/place/Pantai+Kenangan/data=!4m7!3m6!1s0x3031bfb2b0f312ed:0xdb7db92344469a08!8m2!3d2.7841487!4d98.8040926!16s%2Fg%2F11d_1ssn7l!19sChIJ7RLzsLK_MTARCJpGRCO5fds?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPs2tdga-xKTsCDgcTiovvqqySCk6vdu1wQCkbJ=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Kenangan_1745853381.jpg",
+    "rating": 4.4,
+    "reviews": 119,
+    "address": "",
+    "opening_hours": "Open"
+  },
+  {
+    "title": "pantai pasir putih",
+    "link": "https://www.google.com/maps/place/pantai+pasir+putih/data=!4m7!3m6!1s0x3031c5bd2ab25691:0xb4222cec89d65ac2!8m2!3d2.6955706!4d98.6898657!16s%2Fg%2F11b6v7c3jj!19sChIJkVayKr3FMTARwlrWiewsIrQ?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNkWk0KQdQgjfvVlVqydFONqnhMSYkwwya-At9b=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\pantai pasir putih_1745853383.jpg",
+    "rating": 4.2,
+    "reviews": 430,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Sibolazi Beach",
+    "link": "https://www.google.com/maps/place/Sibolazi+Beach/data=!4m7!3m6!1s0x3031bf54564cdc7f:0x181dff6b9a275193!8m2!3d2.7486107!4d98.7509865!16s%2Fg%2F11bzt7sv7j!19sChIJf9xMVlS_MTARk1Enmmv_HRg?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOytQUOTambCbHwMCm1eK-PNwWZXRXrvoKoDxIU=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Sibolazi Beach_1745853384.jpg",
+    "rating": 4.2,
+    "reviews": 293,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Danau Toba",
+    "link": "https://www.google.com/maps/place/Danau+Toba/data=!4m7!3m6!1s0x3031bf0002e53a47:0x2f3687b99d6585b3!8m2!3d2.7871288!4d98.8059596!16s%2Fg%2F11m5yy7wbg!19sChIJRzrlAgC_MTARs4VlnbmHNi8?authuser=0&hl=en&rclk=1",
+    "address": "QRP4+V94, Danau Toba"
+  },
+  {
+    "title": "Bukit Holbung Samosir",
+    "link": "https://www.google.com/maps/place/Bukit+Holbung+Samosir/data=!4m7!3m6!1s0x3031da4bba9d523f:0xf1e39423315c1cfc!8m2!3d2.5303623!4d98.6978956!16s%2Fg%2F11fyx7qq1b!19sChIJP1KdukvaMTAR_BxcMSOU4_E?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNBuawUBUlMIaIptVlyGlMM4FkYAUa_VjoiFCEV=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Holbung Samosir_1745853389.jpg",
+    "rating": 4.7,
+    "reviews": 704,
+    "address": ""
+  },
+  {
+    "title": "Bukit Beta Tuk-tuk",
+    "link": "https://www.google.com/maps/place/Bukit+Beta+Tuk-tuk/data=!4m7!3m6!1s0x3031e9fa043cf24d:0xfb8ed278d029a861!8m2!3d2.6610216!4d98.846906!16s%2Fg%2F11c5_62xh7!19sChIJTfI8BPrpMTARYagp0HjSjvs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPUCd5J1RRHVmM-SVgWjgVWFSMFdMljc6PW3531=w204-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Beta Tuk-tuk_1745853393.jpg",
+    "rating": 4.6,
+    "reviews": 400,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pertunjukan Tari Sigale Gale",
+    "link": "https://www.google.com/maps/place/Pertunjukan+Tari+Sigale+Gale/data=!4m7!3m6!1s0x3031e99379597965:0x42576a71501b7b55!8m2!3d2.6517853!4d98.8608458!16s%2Fg%2F11cjhyxd61!19sChIJZXlZeZPpMTARVXsbUHFqV0I?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNB-jknJyByXUE_ODVJ0_gbyVKloWZYsnVs6Vyz=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pertunjukan Tari Sigale Gale_1745853394.jpg",
+    "rating": 4.5,
+    "reviews": 177,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Objek Wisata Pantai Paris",
+    "link": "https://www.google.com/maps/place/Objek+Wisata+Pantai+Paris/data=!4m7!3m6!1s0x3031be4dacbb753f:0x66d6b7ab5cf56d7b!8m2!3d2.80154!4d98.780056!16s%2Fg%2F11b86lnmg0!19sChIJP3W7rE2-MTARe231XKu31mY?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN7P6eJncBauSa5vSPKGCWMO7mqolYWv0G1Bv2I=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Objek Wisata Pantai Paris_1745853396.jpg",
+    "rating": 4.3,
+    "reviews": 897,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Air Terjun Janji",
+    "link": "https://www.google.com/maps/place/Air+Terjun+Janji/data=!4m7!3m6!1s0x302e221610e7ad55:0x35989309af20d587!8m2!3d2.339422!4d98.8157783!16s%2Fg%2F11btmsc5x_!19sChIJVa3nEBYiLjARh9UgrwmTmDU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOfXc3kyfyta-lsDsqPJ8lO-KU6qsIY_gCXuUYW=w138-h92-k-no",
+    "local_image_path": "gmaps_images\\Air Terjun Janji_1745853397.jpg",
+    "rating": 4.6,
+    "reviews": 232,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Bukit Beta Tuk-tuk",
+    "link": "https://www.google.com/maps/place/Bukit+Beta+Tuk-tuk/data=!4m7!3m6!1s0x3031e9fa043cf24d:0xfb8ed278d029a861!8m2!3d2.6610216!4d98.846906!16s%2Fg%2F11c5_62xh7!19sChIJTfI8BPrpMTARYagp0HjSjvs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPUCd5J1RRHVmM-SVgWjgVWFSMFdMljc6PW3531=w204-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Beta Tuk-tuk_1745853399.jpg",
+    "rating": 4.6,
+    "reviews": 400,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Bukit Indah Sitalmak Talmak Sihotang",
+    "link": "https://www.google.com/maps/place/Bukit+Indah+Sitalmak+Talmak+Sihotang/data=!4m7!3m6!1s0x3031dbae58bae751:0x7b481b23d0cda760!8m2!3d2.5198137!4d98.7332695!16s%2Fg%2F11h2mzgnd2!19sChIJUee6WK7bMTARYKfN0CMbSHs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNBW54r_V1azuYOMcHXbuV-lAFpsGfUDRa4TiMb=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Indah Sitalmak Talmak Sihotang_1745853401.jpg",
+    "rating": 4.7,
+    "reviews": 20,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Danau Aek Natonang",
+    "link": "https://www.google.com/maps/place/Danau+Aek+Natonang/data=!4m7!3m6!1s0x3031e64b84ac3b43:0x1d493a7bfd69ff08!8m2!3d2.5636434!4d98.8835239!16s%2Fg%2F11b6tf6tsg!19sChIJQzushEvmMTARCP9p_Xs6SR0?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMYdX5u_C_tQ5lffWFiri7-TiH1Ji9FKQtMr9Qt=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Danau Aek Natonang_1745853403.jpg",
+    "rating": 4.5,
+    "reviews": 286,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pertunjukan Tari Sigale Gale",
+    "link": "https://www.google.com/maps/place/Pertunjukan+Tari+Sigale+Gale/data=!4m7!3m6!1s0x3031e99379597965:0x42576a71501b7b55!8m2!3d2.6517853!4d98.8608458!16s%2Fg%2F11cjhyxd61!19sChIJZXlZeZPpMTARVXsbUHFqV0I?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNB-jknJyByXUE_ODVJ0_gbyVKloWZYsnVs6Vyz=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pertunjukan Tari Sigale Gale_1745853404.jpg",
+    "rating": 4.5,
+    "reviews": 177,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Objek Wisata Pantai Paris",
+    "link": "https://www.google.com/maps/place/Objek+Wisata+Pantai+Paris/data=!4m7!3m6!1s0x3031be4dacbb753f:0x66d6b7ab5cf56d7b!8m2!3d2.80154!4d98.780056!16s%2Fg%2F11b86lnmg0!19sChIJP3W7rE2-MTARe231XKu31mY?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN7P6eJncBauSa5vSPKGCWMO7mqolYWv0G1Bv2I=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Objek Wisata Pantai Paris_1745853405.jpg",
+    "rating": 4.3,
+    "reviews": 897,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Air Terjun Janji",
+    "link": "https://www.google.com/maps/place/Air+Terjun+Janji/data=!4m7!3m6!1s0x302e221610e7ad55:0x35989309af20d587!8m2!3d2.339422!4d98.8157783!16s%2Fg%2F11btmsc5x_!19sChIJVa3nEBYiLjARh9UgrwmTmDU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOfXc3kyfyta-lsDsqPJ8lO-KU6qsIY_gCXuUYW=w138-h92-k-no",
+    "local_image_path": "gmaps_images\\Air Terjun Janji_1745853407.jpg",
+    "rating": 4.6,
+    "reviews": 232,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pemandian Air Panas Rianiate",
+    "link": "https://www.google.com/maps/place/Pemandian+Air+Panas+Rianiate/data=!4m7!3m6!1s0x3031db9325239f09:0x29816421eb92fb5f!8m2!3d2.5305201!4d98.7337322!16s%2Fg%2F11bcf1rndb!19sChIJCZ8jJZPbMTARX_uS6yFkgSk?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPPtpTNXoyE5uYQbhD0mL2yGz8cXv2E4t-aZrZD=w189-h92-k-no",
+    "local_image_path": "gmaps_images\\Pemandian Air Panas Rianiate_1745853408.jpg",
+    "rating": 4.1,
+    "reviews": 153,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Batu Passa Liang sipogu",
+    "link": "https://www.google.com/maps/place/Batu+Passa+Liang+sipogu/data=!4m7!3m6!1s0x3031c1000ee6f31f:0x6ee7c8a134f162fd!8m2!3d2.7432066!4d98.7662828!16s%2Fg%2F11vqwvkk66!19sChIJH_PmDgDBMTAR_WLxNKHI524?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMIu4Jp_UDSyKpfzPoPj0dORGpFbulkVA_6uMln=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Batu Passa Liang sipogu_1745853410.jpg",
+    "rating": 4.6,
+    "reviews": 81,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Bukit Pahoda",
+    "link": "https://www.google.com/maps/place/Bukit+Pahoda/data=!4m7!3m6!1s0x302e049c02d6f0f9:0x51ad0eefbe2ba85d!8m2!3d2.349122!4d99.0403375!16s%2Fg%2F11c617g39v!19sChIJ-fDWApwELjARXagrvu8OrVE?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOkWOsNvs_7RC48-iP_ul2T6Nks5UemoPifMebo=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Pahoda_1745853412.jpg",
+    "rating": 4.5,
+    "reviews": 95,
+    "address": ""
+  },
+  {
+    "title": "Wisata Alam Fishing-Camp Siarubung",
+    "link": "https://www.google.com/maps/place/Wisata+Alam+Fishing-Camp+Siarubung/data=!4m7!3m6!1s0x3031dbb8cd5446c1:0x58666f0dea522c74!8m2!3d2.5633334!4d98.6608568!16s%2Fg%2F11rnf3cb_g!19sChIJwUZUzbjbMTARdCxS6g1vZlg?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN7l4lk0OXtiFSx3pT2tApVNvAixeXex7b5DAQQ=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Wisata Alam Fishing-Camp Siarubung_1745853415.jpg",
+    "rating": 4.9,
+    "reviews": 33,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Tempat Pengasingan Soekarno",
+    "link": "https://www.google.com/maps/place/Tempat+Pengasingan+Soekarno/data=!4m7!3m6!1s0x3031eeaa7c16d2f1:0x399816d4230e9b4c!8m2!3d2.6655038!4d98.9264259!16s%2Fg%2F11c1p4bxnh!19sChIJ8dIWfKruMTARTJsOI9QWmDk?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMket-di7pRDhv7gLHPr999LzWkw_2vQqBRAH3u=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Tempat Pengasingan Soekarno_1745853417.jpg",
+    "rating": 4.4,
+    "reviews": 296,
+    "address": ""
+  },
+  {
+    "title": "Danau Toba",
+    "link": "https://www.google.com/maps/place/Danau+Toba/data=!4m7!3m6!1s0x3031bf0002e53a47:0x2f3687b99d6585b3!8m2!3d2.7871288!4d98.8059596!16s%2Fg%2F11m5yy7wbg!19sChIJRzrlAgC_MTARs4VlnbmHNi8?authuser=0&hl=en&rclk=1",
+    "address": "QRP4+V94, Danau Toba"
+  },
+  {
+    "title": "Bukit Indah Simarjarunjung",
+    "link": "https://www.google.com/maps/place/Bukit+Indah+Simarjarunjung/data=!4m7!3m6!1s0x3031be7326c429cd:0x934e4a3527a57ab5!8m2!3d2.8133027!4d98.7812646!16s%2Fg%2F11dx8yz3zg!19sChIJzSnEJnO-MTARtXqlJzVKTpM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipM9zzUoY2W7pPd7BPNooU-ewKrgUlzrU9OibZ2j=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Indah Simarjarunjung_1745853425.jpg",
+    "rating": 4.3,
+    "reviews": 211,
+    "address": ""
+  },
+  {
+    "title": "Danau Toba",
+    "link": "https://www.google.com/maps/place/Danau+Toba/data=!4m7!3m6!1s0x3031ebc8fc578617:0x4b8be6c4c01e61fb!8m2!3d2.6827644!4d98.8888816!16s%2Fg%2F11fx8wb8st!19sChIJF4ZX_MjrMTAR-2EewMTmi0s?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNjo6ATMg1i70q123n9oZpp9hSoGb76p5gV-y-k=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Danau Toba_1745853428.jpg",
+    "rating": 4.7,
+    "reviews": 14,
+    "address": "MVMQ+4H2, Danau Toba",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Desa Wisata Tomok Parsaoran",
+    "link": "https://www.google.com/maps/place/Desa+Wisata+Tomok+Parsaoran/data=!4m7!3m6!1s0x3031e9ba15354255:0xc2c6218271f054a5!8m2!3d2.6517983!4d98.8610551!16s%2Fg%2F11mvlmmp9f!19sChIJVUI1FbrpMTARpVTwcYIhxsI?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMXOFTL33W8yl8-i-qFeGtOhRLGx2u4P7Aen7yZ=w92-h92-k-no",
+    "local_image_path": "gmaps_images\\Desa Wisata Tomok Parsaoran_1745853433.jpg",
+    "rating": 4.4,
+    "reviews": 43,
+    "address": "Jl. Makam Sidabutar Jalan"
+  },
+  {
+    "title": "Istana Kaldera Unesco Geopark Danau Toba",
+    "link": "https://www.google.com/maps/place/Istana+Kaldera+Unesco+Geopark+Danau+Toba/data=!4m7!3m6!1s0x302e05edcc28f397:0x5262a7c9443ecde9!8m2!3d2.3447627!4d99.019194!16s%2Fg%2F11rgd552z1!19sChIJl_MozO0FLjAR6c0-RMmnYlI?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMM5TCXaE9RP3VFSqi_FhbwMfDDYO1nrENs_mXi=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Istana Kaldera Unesco Geopark Danau Toba_1745853437.jpg",
+    "rating": 4.7,
+    "reviews": 37,
+    "address": "82V9+WM4"
+  },
+  {
+    "title": "Tao Silalahi Hotel",
+    "link": "https://www.google.com/maps/place/Tao+Silalahi+Hotel/data=!4m7!3m6!1s0x3031b59aaaaaaaab:0xf04f21347b36fb9!8m2!3d2.7908139!4d98.5329025!16s%2Fg%2F11c2qthb08!19sChIJq6qqqpq1MTARuW-zRxPyBA8?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipP2VaEJoO5X8oeHclGX8J6on_Z2Lh5Kw5hi2uLl=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Tao Silalahi Hotel_1745853443.jpg",
+    "rating": 4.5,
+    "reviews": 482,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Situmurun Waterfall",
+    "link": "https://www.google.com/maps/place/Situmurun+Waterfall/data=!4m7!3m6!1s0x3031e4cdf02698d9:0x4e813a548e5424a9!8m2!3d2.5374301!4d99.0079819!16s%2Fg%2F11cms94bnf!19sChIJ2Zgm8M3kMTARqSRUjlQ6gU4?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPp9gUrzyOEvJ4o68HAYqlSpjEWvI2L66WE17_-=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Situmurun Waterfall_1745853445.jpg",
+    "rating": 4.6,
+    "reviews": 553,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 7.00 am Tue"
+  },
+  {
+    "title": "Desa Wisata river side Juma Bulu",
+    "link": "https://www.google.com/maps/place/Desa+Wisata+river+side+Juma+Bulu/data=!4m7!3m6!1s0x3031ef7577e29429:0x8413d1ccbe3452c0!8m2!3d2.6477007!4d98.9408812!16s%2Fg%2F11kpbcvpym!19sChIJKZTid3XvMTARwFI0vszRE4Q?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNjiqeSTW9lRcmC_pcHjvu5Y_eJylOhW2k6f-Fx=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Desa Wisata river side Juma Bulu_1745853450.jpg",
+    "rating": 5.0,
+    "reviews": 8,
+    "address": "JWXR+48",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Lake Above The Lake (Danau di atas Danau",
+    "link": "https://www.google.com/maps/place/Lake+Above+The+Lake+%28Danau+di+atas+Danau/data=!4m7!3m6!1s0x3031c5f37e882267:0x2962664a6635e8f1!8m2!3d2.6014763!4d98.7469027!16s%2Fg%2F11j38pjt4b!19sChIJZyKIfvPFMTAR8eg1ZkpmYik?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOwj784rnu0jO8agSddC9cRU6DtchhlcOGmHaS8=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Lake Above The Lake (Danau di atas Danau_1745853452.jpg",
+    "rating": 4.4,
+    "reviews": 8,
+    "address": ""
+  },
+  {
+    "title": "Huta Siallagan",
+    "link": "https://www.google.com/maps/place/Huta+Siallagan/data=!4m7!3m6!1s0x3031c125fc54fdc5:0x1b8c3a82e22fd9!8m2!3d2.6790415!4d98.8362653!16s%2Fg%2F11rj5kn9zt!19sChIJxf1U_CXBMTAR2S_igjqMGwA?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipO_1T35JOqIu9zdPqxC1q2kynyuCx6EEFEp9GBY=w92-h92-k-no",
+    "local_image_path": "gmaps_images\\Huta Siallagan_1745853457.jpg",
+    "rating": 4.7,
+    "reviews": 109,
+    "address": "MRHP+JG6, Jl. Lkr. Tuktuk"
+  },
+  {
+    "title": "Danau Toba",
+    "link": "https://www.google.com/maps/place/Danau+Toba/data=!4m7!3m6!1s0x3031b39fe9d9e1b5:0x55185018dccda595!8m2!3d2.8446731!4d98.5290626!16s%2Fg%2F11fy9f2hg4!19sChIJteHZ6Z-zMTARlaXN3BhQGFU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNMK3JDeq1y_8PpmMpv6u8USCtrg0Wf8cO2wbHl=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Danau Toba_1745853460.jpg",
+    "rating": 4.8,
+    "reviews": 119,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Lake Toba",
+    "link": "https://www.google.com/maps/place/Lake+Toba/data=!4m7!3m6!1s0x3031de07a843b6ad:0xc018edffa69c0d05!8m2!3d2.7860786!4d98.6160674!16zL20vMDRuNGY!19sChIJrbZDqAfeMTARBQ2cpv_tGMA?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMRCCS5BYwPekVhA3kSzZszlpBuV-3IbnGq9GUt=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Lake Toba_1745853462.jpg",
+    "rating": 4.6,
+    "reviews": 452
+  },
+  {
+    "title": "Old Tomb of King Sidabutar",
+    "link": "https://www.google.com/maps/place/Old+Tomb+of+King+Sidabutar/data=!4m7!3m6!1s0x3031e99483a8f875:0xc42e0195b5b2968a!8m2!3d2.6513151!4d98.860582!16s%2Fg%2F11c5rvmg6c!19sChIJdfiog5TpMTARipaytZUBLsQ?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNHeuaaku22I8AVtJHEsBHDmGJEp7gRlpYZY6c0=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Old Tomb of King Sidabutar_1745853465.jpg",
+    "rating": 4.4,
+    "reviews": 163,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pantai Danau Toba Marom",
+    "link": "https://www.google.com/maps/place/Pantai+Danau+Toba+Marom/data=!4m7!3m6!1s0x302e0340aac9a0d7:0xbb49a68f8179d378!8m2!3d2.4059951!4d99.0837347!16s%2Fg%2F11s5m4gvd1!19sChIJ16DJqkADLjAReNN5gY-mSbs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOBOADb7HIwXf5ZNqZ383A102nkl0zl5hzXoCXu=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Danau Toba Marom_1745853466.jpg",
+    "rating": 3.7,
+    "reviews": 3,
+    "address": "C34M+9FX",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pantai Ikan Mas Tandarabun",
+    "link": "https://www.google.com/maps/place/Pantai+Ikan+Mas+Tandarabun/data=!4m7!3m6!1s0x3031c7b013e36ff5:0xe1ea0142aa540fb0!8m2!3d2.7161063!4d98.6917194!16s%2Fg%2F11gf9krswg!19sChIJ9W_jE7DHMTARsA9UqkIB6uE?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMXJSxQUDapWeKY-Z9ATv4uuHioXi0KfpIWt74=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Ikan Mas Tandarabun_1745853468.jpg",
+    "rating": 4.6,
+    "reviews": 612,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 8.00 am Tue"
+  },
+  {
+    "title": "Menara Pandang Tele",
+    "link": "https://www.google.com/maps/place/Menara+Pandang+Tele/data=!4m7!3m6!1s0x3031d060f0e3180b:0xb561ba45f008aa18!8m2!3d2.5520625!4d98.6398125!16s%2Fg%2F11c55sb9rm!19sChIJCxjj8GDQMTARGKoI8EW6YbU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOlwbqH86VQ-sDXPKxUujIIDDQWV4jpCR1imORE=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Menara Pandang Tele_1745853470.jpg",
+    "rating": 4.5,
+    "reviews": 931,
+    "address": ""
+  },
+  {
+    "title": "Patung Yesus, Bukit Sibea-bea",
+    "link": "https://www.google.com/maps/place/Patung+Yesus,+Bukit+Sibea-bea/data=!4m7!3m6!1s0x3031dbcd53043ca1:0xe50244473f96373d!8m2!3d2.5507063!4d98.6723867!16s%2Fg%2F11n76hj3vv!19sChIJoTwEU83bMTARPTeWP0dEAuU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMijzY5f6Z-utKgg9DscWtXuV02heORswboNijx=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Patung Yesus, Bukit Sibea-bea_1745853474.jpg",
+    "rating": 4.7,
+    "reviews": 432
+  },
+  {
+    "title": "Batu marhosa",
+    "link": "https://www.google.com/maps/place/Batu+marhosa/data=!4m7!3m6!1s0x3031e8503accf529:0xf78f4890dfbf01ba!8m2!3d2.6041291!4d98.8680224!16s%2Fg%2F11c1r0fnsj!19sChIJKfXMOlDoMTARugG_35BIj_c?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipM-3l7y-tMR3ZR-RBGv5wJ-_K5z6Dy-SUSAttKX=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Batu marhosa_1745853476.jpg",
+    "rating": 4.3,
+    "reviews": 70,
+    "address": ""
+  },
+  {
+    "title": "Sipinsur Park Geosite and Pine Forest",
+    "link": "https://www.google.com/maps/place/Sipinsur+Park+Geosite+and+Pine+Forest/data=!4m7!3m6!1s0x302e191e11932b13:0x47ffc29f2eb0d3e1!8m2!3d2.3291448!4d98.8813939!16s%2Fg%2F11b6dfg91y!19sChIJEyuTER4ZLjAR4dOwLp_C_0c?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipO2nRC2EZnJ0j-ZcliEttJ4VHkB1-P1W3DodlU=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Sipinsur Park Geosite and Pine Forest_1745853479.jpg",
+    "rating": 4.6,
+    "reviews": 962
+  },
+  {
+    "title": "Pulau Tolping",
+    "link": "https://www.google.com/maps/place/Pulau+Tolping/data=!4m7!3m6!1s0x3031c049b7ab7281:0x9bb141d904ae5a2c!8m2!3d2.7127967!4d98.8126931!16s%2Fg%2F11rqr9_6_h!19sChIJgXKrt0nAMTARLFquBNlBsZs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPaLBnBF7xlA_N38abDIxQkT2yz5pqfBRwlGQwb=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Pulau Tolping_1745853481.jpg",
+    "rating": 4.1,
+    "reviews": 12,
+    "address": ""
+  },
+  {
+    "title": "Pemandian Aek Sipitu Dai",
+    "link": "https://www.google.com/maps/place/Pemandian+Aek+Sipitu+Dai/data=!4m7!3m6!1s0x3031d0106d42bb71:0x5f4de331ece86492!8m2!3d2.5787301!4d98.6476008!16s%2Fg%2F11b7lmk7kt!19sChIJcbtCbRDQMTARkmTo7DHjTV8?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOvgYmruBsPMxxOCPSOKH_jtg274LgY5Clwlw7L=w200-h92-k-no",
+    "local_image_path": "gmaps_images\\Pemandian Aek Sipitu Dai_1745853484.jpg",
+    "rating": 4.3,
+    "reviews": 415,
+    "address": ""
+  },
+  {
+    "title": "Menara Pandang Simanindo",
+    "link": "https://www.google.com/maps/place/Menara+Pandang+Simanindo/data=!4m7!3m6!1s0x3031bf54fc458df7:0x688a25165ccab970!8m2!3d2.7480401!4d98.7504048!16s%2Fg%2F11f57sk8jz!19sChIJ941F_FS_MTARcLnKXBYlimg?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNO-VxnxTbLLu7Jhvo6qBRIfijf_dmluoy18qcQ=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Menara Pandang Simanindo_1745853487.jpg",
+    "rating": 4.5,
+    "reviews": 23,
+    "address": ""
+  },
+  {
+    "title": "Bukit Simargulang Ombun",
+    "link": "https://www.google.com/maps/place/Bukit+Simargulang+Ombun/data=!4m7!3m6!1s0x3031d949df305b7f:0xadf619ed85ddaacf!8m2!3d2.5062786!4d98.7387721!16s%2Fg%2F11f62rbtrw!19sChIJf1sw30nZMTARz6rdhe0Z9q0?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMt7s_OyTY7iDzgxwOBTHBOl3jd5RjN1LoPLncS=w138-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Simargulang Ombun_1745853490.jpg",
+    "rating": 4.6,
+    "reviews": 11,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Pantai Batuhoda",
+    "link": "https://www.google.com/maps/place/Pantai+Batuhoda/data=!4m7!3m6!1s0x3031c715b0bed547:0x346964c80c83147!8m2!3d2.759845!4d98.725414!16s%2Fg%2F11rtsn0zhj!19sChIJR9W-sBXHMTARRzHIgEyWRgM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMZok2q_VSH_NAreYjIVW9PLm636pD1zUvq9Id2=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Batuhoda_1745853491.jpg",
+    "rating": 4.5,
+    "reviews": 424,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 9.30 am Tue"
+  },
+  {
+    "title": "PEA POROHAN (WISATA ALAM)",
+    "link": "https://www.google.com/maps/place/PEA+POROHAN+%28WISATA+ALAM%29/data=!4m7!3m6!1s0x3031c5900904bb3d:0x304eee46818a008d!8m2!3d2.6243546!4d98.7341014!16s%2Fg%2F11rc90hvwm!19sChIJPbsECZDFMTARjQCKgUbuTjA?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNYlmfjZFx3iBi2nGM0UiG-z3mNIQpYAcSRWCTP=w162-h92-k-no",
+    "local_image_path": "gmaps_images\\PEA POROHAN (WISATA ALAM)_1745853495.jpg",
+    "rating": 4.8,
+    "reviews": 4,
+    "address": "JPFM+PJX",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Taman Wisata Asal Usul (Legenda) Danau Toba",
+    "link": "https://www.google.com/maps/place/Taman+Wisata+Asal+Usul+%28Legenda%29+Danau+Toba/data=!4m7!3m6!1s0x3031c15387860b3d:0xa3885a500872425e!8m2!3d2.6808079!4d98.8360303!16s%2Fg%2F11g03_t49b!19sChIJPQuGh1PBMTARXkJyCFBaiKM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNyiZstjt0FHDMrZzaXUqQF8oY1Fjeh8bjYOws=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Taman Wisata Asal Usul (Legenda) Danau Toba_1745853496.jpg",
+    "rating": 4.1,
+    "reviews": 11,
+    "address": "MRJP+8CC"
+  },
+  {
+    "title": "Indah Sipinggan Beach",
+    "link": "https://www.google.com/maps/place/Indah+Sipinggan+Beach/data=!4m7!3m6!1s0x3031e1df48158301:0xe20812865d8411e8!8m2!3d2.4319981!4d98.8975483!16s%2Fg%2F11fy4mj19w!19sChIJAYMVSN_hMTAR6BGEXYYSCOI?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPckmceiLt00PG-r70TH8fMp-Sw6b_sFtCQnTKH=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Indah Sipinggan Beach_1745853499.jpg",
+    "rating": 4.7,
+    "reviews": 7,
+    "address": "CVJX+Q2V, Danau"
+  },
+  {
+    "title": "Pelabuhan wisata danau toba",
+    "link": "https://www.google.com/maps/place/Pelabuhan+wisata+danau+toba/data=!4m7!3m6!1s0x3031ed9f96182523:0x9fdfff2d8fed23cc!8m2!3d2.6657242!4d98.9356962!16s%2Fg%2F11t5x5qpwz!19sChIJIyUYlp_tMTARzCPtjy3_358?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMFpm4RtJrcjijcCI182DV57FLuaAsf2mJACNJB=w194-h92-k-no",
+    "local_image_path": "gmaps_images\\Pelabuhan wisata danau toba_1745853501.jpg",
+    "rating": 4.8,
+    "reviews": 9,
+    "address": "MW8P+77P"
+  },
+  {
+    "title": "AIR TERJUN BIDADARI JONGGI NIHUTA",
+    "link": "https://www.google.com/maps/place/AIR+TERJUN+BIDADARI+JONGGI+NIHUTA/data=!4m7!3m6!1s0x3031e523f6541bfb:0xc395e8811414e187!8m2!3d2.5532428!4d98.9961629!16s%2Fg%2F11dzvwc4ts!19sChIJ-xtU9iPlMTARh-EUFIHolcM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipP-2hxCUFyJs1kUbE6z6yIHvk2VZGmTEuP4gupK=w80-h142-k-no",
+    "local_image_path": "gmaps_images\\AIR TERJUN BIDADARI JONGGI NIHUTA_1745853503.jpg",
+    "rating": 3.9,
+    "reviews": 10,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Kapal pinisi danau toba",
+    "link": "https://www.google.com/maps/place/Kapal+pinisi+danau+toba/data=!4m7!3m6!1s0x3031ef43f7be04c1:0xb59519e2ce353108!8m2!3d2.6648855!4d98.9350394!16s%2Fg%2F11vj4pcw15!19sChIJwQS-90PvMTARCDE1zuIZlbU?authuser=0&hl=en&rclk=1",
+    "rating": 1.0,
+    "reviews": 1,
+    "address": "MW7P+X23"
+  },
+  {
+    "title": "Air Terjun Tombak Pangaribuan",
+    "link": "https://www.google.com/maps/place/Air+Terjun+Tombak+Pangaribuan/data=!4m7!3m6!1s0x3031dd9500623b81:0xd45d2aff2ad55a4a!8m2!3d2.5316117!4d98.8168167!16s%2Fg%2F11c5x4ym34!19sChIJgTtiAJXdMTARSlrVKv8qXdQ?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNog6OQugvxp2AOR5zJbggwHeG-kIAjj85g7Mod=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Air Terjun Tombak Pangaribuan_1745853507.jpg",
+    "rating": 4.2,
+    "reviews": 20,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Sigurgur Beach & Restaurant",
+    "link": "https://www.google.com/maps/place/Sigurgur+Beach+%26+Restaurant/data=!4m7!3m6!1s0x3031b932bf2efe37:0xb90006530436cee4!8m2!3d2.7484627!4d98.7142621!16s%2Fg%2F11fm_2lp9n!19sChIJN_4uvzK5MTAR5M42BFMGALk?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPSky99exs8cBnS0XwAylwIyePnxDVZZJiLnBge=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Sigurgur Beach & Restaurant_1745853508.jpg",
+    "rating": 4.4,
+    "reviews": 357,
+    "address": "Unnamed Road",
+    "opening_hours": "Closed ⋅ Opens 9.00 am Tue"
+  },
+  {
+    "title": "Panatapan Batu Anduhur",
+    "link": "https://www.google.com/maps/place/Panatapan+Batu+Anduhur/data=!4m7!3m6!1s0x3031cf13b78492b9:0x856868718e89b595!8m2!3d2.6236148!4d98.6255891!16s%2Fg%2F11lgwp5k__!19sChIJuZKEtxPPMTARlbWJjnFoaIU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOxdSzTHttWoZPDE0lUsrndU58rGIQdHWs7KbQj=w204-h92-k-no",
+    "local_image_path": "gmaps_images\\Panatapan Batu Anduhur_1745853510.jpg",
+    "rating": 4.7,
+    "reviews": 56,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Wisata danau toba",
+    "link": "https://www.google.com/maps/place/Wisata+danau+toba/data=!4m7!3m6!1s0x3031df007a17c65b:0xc44f3722b7705196!8m2!3d2.4337266!4d98.8305898!16s%2Fg%2F11x08jd7_w!19sChIJW8YXegDfMTARllFwtyI3T8Q?authuser=0&hl=en&rclk=1",
+    "address": "CRMJ+F6"
+  },
+  {
+    "title": "Pantai Kasih",
+    "link": "https://www.google.com/maps/place/Pantai+Kasih/data=!4m7!3m6!1s0x3031eda036980179:0x4bc3ff6e92075063!8m2!3d2.6668662!4d98.9266075!16s%2Fg%2F11r339mwr8!19sChIJeQGYNqDtMTARY1AHkm7_w0s?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPI412CiYGhIhGHbDxREbSn4Kv8sAgjCwJWQPIa=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Kasih_1745853514.jpg",
+    "rating": 4.2,
+    "reviews": 26,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 7.00 am Tue"
+  },
+  {
+    "title": "PASIR PUTIH LUMBAN BULBUL",
+    "link": "https://www.google.com/maps/place/PASIR+PUTIH+LUMBAN+BULBUL/data=!4m7!3m6!1s0x302e0474411724cf:0x237b4f25baf9cd92!8m2!3d2.3482048!4d99.0753156!16s%2Fg%2F11fxdykq0m!19sChIJzyQXQXQELjARks35uiVPeyM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNlBXOXDQbRUPPXT5zyPUFxZ5u-atWdS_8Vq0ey=w194-h92-k-no",
+    "local_image_path": "gmaps_images\\PASIR PUTIH LUMBAN BULBUL_1745853517.jpg",
+    "rating": 4.4,
+    "reviews": 634,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 6.00 am Tue"
+  },
+  {
+    "title": "Spot view Danau Toba",
+    "link": "https://www.google.com/maps/place/Spot+view+Danau+Toba/data=!4m7!3m6!1s0x3031b509a5e420f3:0x18d23a59e64017cf!8m2!3d2.7677114!4d98.5625972!16s%2Fg%2F11v15dbfg9!19sChIJ8yDkpQm1MTARzxdA5lk60hg?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOfS1LlIRxKMoUKzJ75kUgq-tYpIlVm_VTpSDaJ=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Spot view Danau Toba_1745853520.jpg",
+    "address": "QH87+RF"
+  },
+  {
+    "title": "Tano Ponggol Promenade",
+    "link": "https://www.google.com/maps/place/Tano+Ponggol+Promenade/data=!4m7!3m6!1s0x3031c5a8de97fac5:0xe9367b24bf87bd6b!8m2!3d2.6132053!4d98.6906372!16s%2Fg%2F11sk9y9x4q!19sChIJxfqX3qjFMTARa72HvyR7Nuk?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPCTgRFtrxk-uxNjO-VPSpYsZvHocG3xBcG4rae=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Tano Ponggol Promenade_1745853522.jpg",
+    "rating": 4.5,
+    "reviews": 101,
+    "address": "JM7R+77",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Danau Toba, Ajibata",
+    "link": "https://www.google.com/maps/place/Danau+Toba,+Ajibata/data=!4m7!3m6!1s0x3031ef002676447b:0x200e13a5a9dd203f!8m2!3d2.6598166!4d98.9332138!16s%2Fg%2F11x0c42d6s!19sChIJe0R2JgDvMTARPyDdqaUTDiA?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipP4zpyg0J4MwPz54PWi_1UDighBJPuHd8boBDH7=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Danau Toba, Ajibata_1745853523.jpg",
+    "address": "MW5M+W7G"
+  },
+  {
+    "title": "Parbaba Beach",
+    "link": "https://www.google.com/maps/place/Parbaba+Beach/data=!4m7!3m6!1s0x3031c7035be4ea51:0x81cd35a79bfe474!8m2!3d2.695096!4d98.6897135!16s%2Fg%2F11qh8532xp!19sChIJUerkWwPHMTARdOS_eVrTHAg?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMVv_WJwmZOqS-_d9IeRiYmT7gI9_kyh5sT7LrB=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Parbaba Beach_1745853525.jpg",
+    "rating": 3.8,
+    "reviews": 8,
+    "address": "MMWQ+2VP, Pantai Pasir Putih Parbaba"
+  },
+  {
+    "title": "Pantai pasir putih said dolok",
+    "link": "https://www.google.com/maps/place/Pantai+pasir+putih+said+dolok/data=!4m7!3m6!1s0x3031eda50f73766f:0x3bdeda721ffe8650!8m2!3d2.6809914!4d98.9242616!16s%2Fg%2F11p02mnxvt!19sChIJb3ZzD6XtMTARUIb-H3La3js?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOq9apZmbN3YbU1RKE3_cTuhy0F9qqQhJ16PehK=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai pasir putih said dolok_1745853528.jpg",
+    "rating": 4.6,
+    "reviews": 18,
+    "address": "MWJF+9PR, Jl. Siborongborong - Parapat",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "La repa beach",
+    "link": "https://www.google.com/maps/place/La+repa+beach/data=!4m7!3m6!1s0x3031eb2941f92749:0x7c28888217057ef6!8m2!3d2.7182254!4d98.8893516!16s%2Fg%2F11lgv5cwnp!19sChIJSSf5QSnrMTAR9n4FF4KIKHw?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPIWTfbFkiZ2pk2FCTiptKZ5z2ndKuHzBHkBqZH=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\La repa beach_1745853529.jpg",
+    "rating": 4.0,
+    "reviews": 8,
+    "address": "PV9Q+7PX",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Hutan indah lestari",
+    "link": "https://www.google.com/maps/place/Hutan+indah+lestari/data=!4m7!3m6!1s0x3031e9afee7f1895:0xf8e0f6da1abacc8e!8m2!3d2.6306875!4d98.8486875!16s%2Fg%2F11rv07rbdx!19sChIJlRh_7q_pMTARjsy6Gtr24Pg?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipO4f9wuAhjTCsbYlFbTcLPn1TVz3t_mQunpKyT-=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Hutan indah lestari_1745853530.jpg",
+    "rating": 4.9,
+    "reviews": 15,
+    "address": "JRJX+7F",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Desa Wisata Martoba",
+    "link": "https://www.google.com/maps/place/Desa+Wisata+Martoba/data=!4m7!3m6!1s0x3031c1670511a7ab:0x1dcb6cad692ef370!8m2!3d2.6975449!4d98.8142774!16s%2Fg%2F11vwpmj4_5!19sChIJq6cRBWfBMTARcPMuaa1syx0?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPlocSGC53Z2NUab_YpbhVphuKhcyZ-4wZF4BL2=w137-h92-k-no",
+    "local_image_path": "gmaps_images\\Desa Wisata Martoba_1745853531.jpg",
+    "rating": 5.0,
+    "reviews": 7,
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Sijukjuk Hill",
+    "link": "https://www.google.com/maps/place/Sijukjuk+Hill/data=!4m7!3m6!1s0x3031db0723ccb87b:0x4f697854dc3f7a7b!8m2!3d2.5690108!4d98.6866812!16s%2Fg%2F11g0km917g!19sChIJe7jMIwfbMTARe3o_3FR4aU8?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipP_UPgz3QH2W-Rz2Q92CZKhMF04M8Sk8afJ-7Ke=w138-h92-k-no",
+    "local_image_path": "gmaps_images\\Sijukjuk Hill_1745853533.jpg",
+    "rating": 4.3,
+    "reviews": 12,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Bukit cinta",
+    "link": "https://www.google.com/maps/place/Bukit+cinta/data=!4m7!3m6!1s0x3031b521bc259afb:0x30ff76880076acf7!8m2!3d2.7620477!4d98.5336525!16s%2Fg%2F11sszn831r!19sChIJ-5olvCG1MTAR96x2AIh2_zA?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPCwb8735pg8wqNVK7UPYTk8lGqLNR8cmCJg3A=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Bukit cinta_1745853535.jpg",
+    "rating": 4.2,
+    "reviews": 74,
+    "address": ""
+  },
+  {
+    "title": "Taman Wisata Kera Sibaganding",
+    "link": "https://www.google.com/maps/place/Taman+Wisata+Kera+Sibaganding/data=!4m7!3m6!1s0x3031ec7654bb880f:0x2928124be5fe45d2!8m2!3d2.6927065!4d98.9270058!16s%2Fg%2F11g6ql0bzg!19sChIJD4i7VHbsMTAR0kX-5UsSKCk?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMPpiJrwq9tD1wy2cuwlNTa6NDo8Uh93DI-943f=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Taman Wisata Kera Sibaganding_1745853537.jpg",
+    "rating": 4.4,
+    "reviews": 181,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 9.30 am Tue"
+  },
+  {
+    "title": "Wisata Rumah Pohon",
+    "link": "https://www.google.com/maps/place/Wisata+Rumah+Pohon/data=!4m7!3m6!1s0x302e0550bf8a7ceb:0x70810a42ef94b07f!8m2!3d2.3514354!4d99.0253061!16s%2Fg%2F11rgfqg874!19sChIJ63yKv1AFLjARf7CU70IKgXA?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOJBnKccbi_34PzY_NFF4qyBQnFVknunnElm7yz=w204-h92-k-no",
+    "local_image_path": "gmaps_images\\Wisata Rumah Pohon_1745853540.jpg",
+    "rating": 4.5,
+    "reviews": 166,
+    "address": "922G+H4F, Jl. Raya TaraBunga"
+  },
+  {
+    "title": "SIHALPE Danau Toba dan area mendaki",
+    "link": "https://www.google.com/maps/place/SIHALPE+Danau+Toba+dan+area+mendaki/data=!4m7!3m6!1s0x3031b193ff98907b:0xbe569eabc6cfde51!8m2!3d2.8759917!4d98.6337417!16s%2Fg%2F11r8pc_r89!19sChIJe5CY_5OxMTARUd7PxqueVr4?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNiOSbvEO3GVLNbBIqtRRzM4_SwPRLFwH5FO0ak=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\SIHALPE Danau Toba dan area mendaki_1745853542.jpg",
+    "rating": 4.0,
+    "reviews": 5,
+    "address": "VJGM+9FX, Unnamed Road",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Parhallow viewpoint and coffee shop",
+    "link": "https://www.google.com/maps/place/Parhallow+viewpoint+and+coffee+shop/data=!4m7!3m6!1s0x3031e85086d2f2a5:0x67afd042ec7e3e80!8m2!3d2.6173738!4d98.8723285!16s%2Fg%2F11c1r7m3y7!19sChIJpfLShlDoMTARgD5-7ELQr2c?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipM7l48dgDXO-a-2VEpC3_wAoG-cg-WhDBFOX-J7=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Parhallow viewpoint and coffee shop_1745853544.jpg",
+    "rating": 4.6,
+    "reviews": 519,
+    "address": "",
+    "opening_hours": "Closes soon ⋅ 11.00 pm ⋅ Opens 8.00 am Tue"
+  },
+  {
+    "title": "Pea jambu",
+    "link": "https://www.google.com/maps/place/Pea+jambu/data=!4m7!3m6!1s0x3031c300676e80a1:0xe434a54ac89749f9!8m2!3d2.6273112!4d98.7922018!16s%2Fg%2F11x0z_ppfc!19sChIJoYBuZwDDMTAR-UmXyEqlNOQ?authuser=0&hl=en&rclk=1",
+    "address": "JQGR+WVG, Danau toba"
+  },
+  {
+    "title": "Pinus Hills Simarjarunjung",
+    "link": "https://www.google.com/maps/place/Pinus+Hills+Simarjarunjung/data=!4m7!3m6!1s0x3031bfeba9ee1ef9:0x5cdfd4f32b372494!8m2!3d2.8170001!4d98.7827456!16s%2Fg%2F11lkflf_g_!19sChIJ-R7uqeu_MTARlCQ3K_PU31w?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMQQGrvqUHoP7lyGYC9lWHSCMfOvOJleBNl2O8k=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pinus Hills Simarjarunjung_1745853548.jpg",
+    "rating": 4.2,
+    "reviews": 27,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Cottage Aek Tawar Sari",
+    "link": "https://www.google.com/maps/place/Cottage+Aek+Tawar+Sari/data=!4m7!3m6!1s0x3031dd2d24663ab1:0x51f206cf0196ac46!8m2!3d2.5882516!4d98.7813773!16s%2Fg%2F11vcl95m1y!19sChIJsTpmJC3dMTARRqyWAc8G8lE?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNDQ8BM7hE4tz2OgRhUCyrqv7TYAnBGYYPGHROF=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Cottage Aek Tawar Sari_1745853550.jpg",
+    "rating": 4.8,
+    "reviews": 18,
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Perkemahan Paropo",
+    "link": "https://www.google.com/maps/place/Perkemahan+Paropo/data=!4m7!3m6!1s0x3031b3755f6acba9:0x9c1bb632e36473ef!8m2!3d2.8441892!4d98.5295004!16s%2Fg%2F11f40ylkbw!19sChIJqctqX3WzMTAR73Nk4zK2G5w?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipO2tad4p5_q7RoEohsPN8XMA8u5olDC5R_za0l0=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Perkemahan Paropo_1745853551.jpg",
+    "rating": 4.6,
+    "reviews": 204,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "DTW Ikan Mas Sipolha",
+    "link": "https://www.google.com/maps/place/DTW+Ikan+Mas+Sipolha/data=!4m7!3m6!1s0x3031eaccfdbe5e81:0xdf37c11ea9570f7d!8m2!3d2.7427742!4d98.8665076!16s%2Fg%2F11cm02q6mv!19sChIJgV6-_czqMTARfQ9XqR7BN98?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPc7istBJg73BuNc9IKsHsM7zXH66sPPr_Vg3e9=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\DTW Ikan Mas Sipolha_1745853552.jpg",
+    "rating": 4.1,
+    "reviews": 47,
+    "address": ""
+  },
+  {
+    "title": "Loho beach & camping ground",
+    "link": "https://www.google.com/maps/place/Loho+beach+%26+camping+ground/data=!4m7!3m6!1s0x3031c716dcd619f5:0x5c6070d935b51b9d!8m2!3d2.7116063!4d98.6910286!16s%2Fg%2F11y2d1k2cq!19sChIJ9RnW3BbHMTARnRu1NdlwYFw?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMOx7Y8ln76WFQI01UWRnBX0ipIrp05ZZy8CpWE=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Loho beach & camping ground_1745853555.jpg",
+    "rating": 5.0,
+    "reviews": 58,
+    "address": "Jl. Raya Simanindo",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Batu Gantung",
+    "link": "https://www.google.com/maps/place/Batu+Gantung/data=!4m7!3m6!1s0x3031eb8946b58f3b:0xcbb5c2b55623b88a!8m2!3d2.6883926!4d98.9242995!16s%2Fg%2F11bwd9mlxs!19sChIJO4-1RonrMTARirgjVrXCtcs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMzdKJ3V37wQwdPIA3r86FbzjjoZo1vFcWuvAt9=w153-h92-k-no",
+    "local_image_path": "gmaps_images\\Batu Gantung_1745853557.jpg",
+    "rating": 4.5,
+    "reviews": 687,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 9.30 am Tue"
+  },
+  {
+    "title": "Garoga Beach, Hotel and Cafe. Wisata Halal Danau Toba",
+    "link": "https://www.google.com/maps/place/Garoga+Beach,+Hotel+and+Cafe.+Wisata+Halal+Danau+Toba/data=!4m7!3m6!1s0x3031bf0023656103:0x8c3b6bac7fd8118b!8m2!3d2.8002447!4d98.7834014!16s%2Fg%2F11yb6861_l!19sChIJA2FlIwC_MTARixHYf6xrO4w?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOjO8OiTvpzI3XrixMdU9BohcPmve3mFzgnwU1Q=w80-h177-k-no",
+    "local_image_path": "gmaps_images\\Garoga Beach, Hotel and Cafe. Wisata Halal Danau Toba_1745853560.jpg",
+    "address": "RQ2M+5C6"
+  },
+  {
+    "title": "Prapat bahari",
+    "link": "https://www.google.com/maps/place/Prapat+bahari/data=!4m7!3m6!1s0x3031ef2c230be4d7:0xc5d1a71de86710c!8m2!3d2.665013!4d98.9343351!16s%2Fg%2F11v0j527vz!19sChIJ1-QLIyzvMTARDHGG3nEaXQw?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNDw7x7cWtNpARodlakuM-9KhNLKF1XZ4Em6ZSO=w204-h92-k-no",
+    "local_image_path": "gmaps_images\\Prapat bahari_1745853562.jpg",
+    "rating": 5.0,
+    "reviews": 3,
+    "address": "MW8M+2P4, Jl. Kol. TPR Sinaga"
+  },
+  {
+    "title": "Pasir Siriaon",
+    "link": "https://www.google.com/maps/place/Pasir+Siriaon/data=!4m7!3m6!1s0x3031c5b9ddf4dbc5:0x862d1d9cf58c6e7b!8m2!3d2.6509993!4d98.6860888!16s%2Fg%2F11sgv56kg1!19sChIJxdv03bnFMTARe26M9ZwdLYY?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNWsmXgvBcAl07LDdedGAG7K714GcVf3z7CRO5R=w160-h92-k-no",
+    "local_image_path": "gmaps_images\\Pasir Siriaon_1745853563.jpg",
+    "rating": 4.7,
+    "reviews": 29,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Tepian Sibea bea Danau Toba",
+    "link": "https://www.google.com/maps/place/Tepian+Sibea+bea+Danau+Toba/data=!4m7!3m6!1s0x3031db11fdd898b7:0x544b189ad9814e3e!8m2!3d2.5525471!4d98.6765894!16s%2Fg%2F11stbcrf2m!19sChIJt5jY_RHbMTARPk6B2ZoYS1Q?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNvjNiRNzZ-LuEpTt3rXOzQHmm5bwd58DVYC2FT=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Tepian Sibea bea Danau Toba_1745853565.jpg",
+    "rating": 4.8,
+    "reviews": 16,
+    "address": "HM3G+2J8, Sibea bea danau toba"
+  },
+  {
+    "title": "Swiss Van Toba",
+    "link": "https://www.google.com/maps/place/Swiss+Van+Toba/data=!4m7!3m6!1s0x3031e90055ec090f:0xa39a3a6ac2da3697!8m2!3d2.608648!4d98.91964!16s%2Fg%2F11vss3wc_2!19sChIJDwnsVQDpMTARlzbawmo6mqM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN0ND8osrmzl8WBvE0L6qz05sUSMP-2GR1_SpXx=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Swiss Van Toba_1745853567.jpg",
+    "rating": 5.0,
+    "reviews": 3,
+    "address": "JW59+FV"
+  },
+  {
+    "title": "Ilham Gusriadi's Point",
+    "link": "https://www.google.com/maps/place/Ilham+Gusriadi%27s+Point/data=!4m7!3m6!1s0x3031db005a762745:0x661a898fe225ae9b!8m2!3d2.5520769!4d98.6759098!16s%2Fg%2F11ltdcp63n!19sChIJRSd2WgDbMTARm64l4o-JGmY?authuser=0&hl=en&rclk=1",
+    "address": "HM3G+2J8, Sibea bea danau toba"
+  },
+  {
+    "title": "Tugu Toga Sinaga Urat",
+    "link": "https://www.google.com/maps/place/Tugu+Toga+Sinaga+Urat/data=!4m7!3m6!1s0x3031de3295a44a7d:0x27dc41a4df7fa861!8m2!3d2.471766!4d98.8240714!16s%2Fg%2F11gbpc4_33!19sChIJfUqklTLeMTARYah_36RB3Cc?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMYu1aWkLzroNZkKxu7MA4jUO7hzTAfCLUPmF4k=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Tugu Toga Sinaga Urat_1745853571.jpg",
+    "rating": 4.7,
+    "reviews": 234,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Patung Boraspati ni Tano- Boru Saniang Naga",
+    "link": "https://www.google.com/maps/place/Patung+Boraspati+ni+Tano-+Boru+Saniang+Naga/data=!4m7!3m6!1s0x3031c5004a322e0b:0x3ea12da5e9c43ec!8m2!3d2.6063443!4d98.6950269!16s%2Fg%2F11y5cmv169!19sChIJCy4ySgDFMTAR7EOcXtoS6gM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNrTLOXbFwpft4GIjmYYoetKYxIDgHMQFsHBZGL=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Patung Boraspati ni Tano- Boru Saniang Naga_1745853572.jpg",
+    "rating": 4.8,
+    "reviews": 6,
+    "address": "Jl. Danau Toba No.1",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Parapet secret view",
+    "link": "https://www.google.com/maps/place/Parapet+secret+view/data=!4m7!3m6!1s0x3031ef9404eea219:0xb70f1e0c5bb13aec!8m2!3d2.6651263!4d98.9258941!16s%2Fg%2F11st7wz06r!19sChIJGaLuBJTvMTAR7DqxWwweD7c?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPBannYE8fRpu8EkkrqdMb0YSI0Fc-v6phworku=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Parapet secret view_1745853574.jpg",
+    "rating": 4.0,
+    "reviews": 2,
+    "address": "MW7G+R9J, Jl. Marihat",
+    "opening_hours": "Closes soon ⋅ 11.00 pm ⋅ Opens 6.00 am Tue"
+  },
+  {
+    "title": "Batu Kursi Raja Siallagan ( Stone Chair of King Siallagan )",
+    "link": "https://www.google.com/maps/place/Batu+Kursi+Raja+Siallagan+%28+Stone+Chair+of+King+Siallagan+%29/data=!4m7!3m6!1s0x3031ea09d670810b:0x3abadc83950327b3!8m2!3d2.6790382!4d98.836036!16s%2Fg%2F11bwtdpcyk!19sChIJC4Fw1gnqMTARsycDlYPcujo?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPHtvrpYrE_UTNh1Zz2MWn3s_epj2-EXAh4SEmT=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Batu Kursi Raja Siallagan ( Stone Chair of King Siallagan )_1745853576.jpg",
+    "rating": 4.5,
+    "reviews": 339,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 8.00 am Tue"
+  },
+  {
+    "title": "Samosir Botanical Garden",
+    "link": "https://www.google.com/maps/place/Samosir+Botanical+Garden/data=!4m7!3m6!1s0x3031c299e6a163b3:0xf19cfb96eb6e7d1!8m2!3d2.6351532!4d98.8712551!16s%2Fg%2F1hm5c1ngn!19sChIJs2Oh5pnCMTAR0ee2brnPGQ8?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMUMJvDqWwPTFFN5xh8IYXww0KpKjEmUEncZeec=w138-h92-k-no",
+    "local_image_path": "gmaps_images\\Samosir Botanical Garden_1745853578.jpg",
+    "rating": 4.2,
+    "reviews": 253,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 8.00 am Tue"
+  },
+  {
+    "title": "Simarjarunjung Hound Sky",
+    "link": "https://www.google.com/maps/place/Simarjarunjung+Hound+Sky/data=!4m7!3m6!1s0x3031be99603a0fdd:0xab6ab6a6249238fb!8m2!3d2.8178556!4d98.7755841!16s%2Fg%2F11f3n93mhz!19sChIJ3Q86YJm-MTAR-ziSJKa2aqs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN9gkj-7YZ6suH_vLvq_xGQsKhWriqFgwO7Fx9F=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Simarjarunjung Hound Sky_1745853581.jpg",
+    "rating": 4.3,
+    "reviews": 305,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Hubuan Vilage (Sinaga_NC)",
+    "link": "https://www.google.com/maps/place/Hubuan+Vilage+%28Sinaga_NC%29/data=!4m7!3m6!1s0x3031ed007c541b5f:0x8734665179ebff5f!8m2!3d2.676842!4d98.926239!16s%2Fg%2F11ltxplck1!19sChIJXxtUfADtMTARX__reVFmNIc?authuser=0&hl=en&rclk=1",
+    "rating": 4.0,
+    "reviews": 1,
+    "address": "Jl. Siborongborong - Parapat No.27"
+  },
+  {
+    "title": "Pesanggrahan Bung Karno",
+    "link": "https://www.google.com/maps/place/Pesanggrahan+Bung+Karno/data=!4m7!3m6!1s0x3031eea3f25aef29:0xfb99de4919f47cf5!8m2!3d2.6654975!4d98.926417!16s%2Fg%2F11bzt8yjf9!19sChIJKe9a8qPuMTAR9Xz0GUnemfs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN0hWT9QznBnALQJW3QsaKIZ_YgSx-8rFvT55kK=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pesanggrahan Bung Karno_1745853586.jpg",
+    "rating": 4.6,
+    "reviews": 333,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 9.00 am Tue"
+  },
+  {
+    "title": "Pantai Silalahi",
+    "link": "https://www.google.com/maps/place/Pantai+Silalahi/data=!4m7!3m6!1s0x3031b4f879e39fcd:0xd5b911cbb4bc8eb0!8m2!3d2.7947182!4d98.527872!16s%2Fg%2F11bzypkwhj!19sChIJzZ_jefi0MTARsI68tMsRudU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNY9KP4wLUMV5STNAT5XSqmL2RgsuSoK2cXbxc3=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Silalahi_1745853589.jpg",
+    "rating": 4.4,
+    "reviews": 382,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 8.00 am Tue"
+  },
+  {
+    "title": "Sigale-Gale Pertama Di Tomok",
+    "link": "https://www.google.com/maps/place/Sigale-Gale+Pertama+Di+Tomok/data=!4m7!3m6!1s0x3031e9007f032e9f:0xe56ec711eb119a2c!8m2!3d2.6524136!4d98.8622265!16s%2Fg%2F11vz3dfn3q!19sChIJny4DfwDpMTARLJoR6xHHbuU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipODh8-o7PvE2SYpk7cmsNMVpyZBkcar9zMWMkE9=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Sigale-Gale Pertama Di Tomok_1745853592.jpg",
+    "rating": 4.7,
+    "reviews": 21,
+    "address": "Jl. Pulau Samosir No.3"
+  },
+  {
+    "title": "Tao Silalahi Viewpoint",
+    "link": "https://www.google.com/maps/place/Tao+Silalahi+Viewpoint/data=!4m7!3m6!1s0x3031cfbbcb26f629:0xdfcd0550bb8af7c9!8m2!3d2.6280371!4d98.6346953!16s%2Fg%2F11r36h_5jr!19sChIJKfYmy7vPMTARyfeKu1AFzd8?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNTOK9WeXdpt8xUjoTncFSh9WU-lLpag-xXeh6v=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Tao Silalahi Viewpoint_1745853595.jpg",
+    "rating": 4.6,
+    "reviews": 26,
+    "address": ""
+  },
+  {
+    "title": "Air Terjun Siringo",
+    "link": "https://www.google.com/maps/place/Air+Terjun+Siringo/data=!4m7!3m6!1s0x3031b5c720b67c65:0xf2dd7c5fe34cda93!8m2!3d2.7727056!4d98.5527984!16s%2Fg%2F11g6nr6593!19sChIJZXy2IMe1MTARk9pM41983fI?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOS5eNKViCCpJ0xj_la4RAeGCv1sbkGDMXq-X2P=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Air Terjun Siringo_1745853598.jpg",
+    "rating": 4.5,
+    "reviews": 121,
+    "address": "",
+    "opening_hours": "Closed ⋅ Opens 8.00 am Tue"
+  },
+  {
+    "title": "I Love Samosir Danau Toba",
+    "link": "https://www.google.com/maps/place/I+Love+Samosir+Danau+Toba/data=!4m7!3m6!1s0x3031c5af9a8ea7b5:0x765154653680aee1!8m2!3d2.5925292!4d98.6876105!16s%2Fg%2F11v5_28ns2!19sChIJtaeOmq_FMTAR4a6ANmVUUXY?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOWGBH9klk7IIC3WGEiQx3kGi0c5_sYQBUjO167=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\I Love Samosir Danau Toba_1745853601.jpg",
+    "rating": 4.5,
+    "reviews": 4,
+    "address": "HMVQ+229"
+  },
+  {
+    "title": "Bukit cinta",
+    "link": "https://www.google.com/maps/place/Bukit+cinta/data=!4m7!3m6!1s0x3031b5a39fc558af:0xdc7b628da8a6e8e4!8m2!3d2.7556216!4d98.5690077!16s%2Fg%2F11l6g0rpvm!19sChIJr1jFn6O1MTAR5OimqI1ie9w?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPcEw5c8FmDXCTKSmHAtaDSxI-zeiYb1w7_4n0x=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit cinta_1745853603.jpg",
+    "rating": 4.7,
+    "reviews": 6
+  },
+  {
+    "title": "TUNGKIR JAYA CAMP",
+    "link": "https://www.google.com/maps/place/TUNGKIR+JAYA+CAMP/data=!4m7!3m6!1s0x3031b3248dae1e25:0x45fe0851ff20b69d!8m2!3d2.832969!4d98.526843!16s%2Fg%2F11n0tr_lvx!19sChIJJR6ujSSzMTARnbYg_1EI_kU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipM15ZV9eUCN4AIHqjerUEVzzbk_A6xroGMFy5oA=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\TUNGKIR JAYA CAMP_1745853606.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Huta Silalahi upapangulu",
+    "link": "https://www.google.com/maps/place/Huta+Silalahi+upapangulu/data=!4m7!3m6!1s0x3031dd3f9aabcb93:0x55509f9e33722902!8m2!3d2.5123714!4d98.7540094!16s%2Fg%2F11r_k5qz3_!19sChIJk8urmj_dMTARAilyM56fUFU?authuser=0&hl=en&rclk=1",
+    "address": "GQ63+WJR, Unnamed Road"
+  },
+  {
+    "title": "PANTAI LA TERZHIA ZHIMEHULI",
+    "link": "https://www.google.com/maps/place/PANTAI+LA+TERZHIA+ZHIMEHULI/data=!4m7!3m6!1s0x3031b3651b36542b:0x129ff8abe2790d1f!8m2!3d2.852519!4d98.5248092!16s%2Fg%2F11hyz6nfv_!19sChIJK1Q2G2WzMTARHw154qv4nxI?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMK852JJQMjY_dlpPZxXwVFuWn-lrev2zA5H2Q=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\PANTAI LA TERZHIA ZHIMEHULI_1745853609.jpg",
+    "rating": 4.1,
+    "reviews": 7,
+    "address": "VG3F+2W3, Jl. Tugu Silalahi - Sabungan"
+  },
+  {
+    "title": "The Kaldera",
+    "link": "https://www.google.com/maps/place/The+Kaldera/data=!4m7!3m6!1s0x3031ef11fbe7a0f9:0x75154767a18d02c8!8m2!3d2.6067911!4d98.9459367!16s%2Fg%2F11fkn47m3h!19sChIJ-aDn-xHvMTARyAKNoWdHFXU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOytwSUDkAMDchapwynUo77KXcTWvxVrcNl_z3e=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\The Kaldera_1745853612.jpg",
+    "rating": 4.5,
+    "reviews": 432,
+    "address": ""
+  },
+  {
+    "title": "PANTAI LATERSIA SIMEHULI",
+    "link": "https://www.google.com/maps/place/PANTAI+LATERSIA+SIMEHULI/data=!4m7!3m6!1s0x3031b367b54295dd:0xe413e202fdc1f4a3!8m2!3d2.8302917!4d98.52616!16s%2Fg%2F11hzxymjb2!19sChIJ3ZVCtWezMTARo_TB_QLiE-Q?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNtyI3UgScgi6wyEybJmChZeY8MBer7maQbtrjp=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\PANTAI LATERSIA SIMEHULI_1745853614.jpg",
+    "rating": 5.0,
+    "reviews": 6,
+    "address": "",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "Caldera toba nomadic escape (glamour camping)",
+    "link": "https://www.google.com/maps/place/Caldera+toba+nomadic+escape+%28glamour+camping%29/data=!4m7!3m6!1s0x3031ef586f60ca0d:0xb805f2c3eaeeda0!8m2!3d2.6078521!4d98.9460998!16s%2Fg%2F11rfby_56q!19sChIJDcpgb1jvMTARoO2uPixfgAs?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNLlT7-TgEjMhcHuNh0thJ283E4rF_sQjX_VGKN=w80-h120-k-no",
+    "local_image_path": "gmaps_images\\Caldera toba nomadic escape (glamour camping)_1745853616.jpg",
+    "rating": 4.5,
+    "reviews": 230,
+    "address": "JW5W+4CX",
+    "opening_hours": "Closed ⋅ Opens 7.00 am Tue"
+  },
+  {
+    "title": "Sigapiton",
+    "link": "https://www.google.com/maps/place/Sigapiton/data=!4m7!3m6!1s0x3031ef12c97bae29:0x8d180973294f01dd!8m2!3d2.5993295!4d98.929332!16s%2Fg%2F11rps8hr6n!19sChIJKa57yRLvMTAR3QFPKXMJGI0?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMtsC4EyKYZ06VM5NboBUk1Gb8RbfcaekLJrFpK=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Sigapiton_1745853619.jpg",
+    "rating": 4.0,
+    "reviews": 2,
+    "address": "HWXH+PPP"
+  },
+  {
+    "title": "PDA Panggung Drama Alam, BIS ANNEX",
+    "link": "https://www.google.com/maps/place/PDA+Panggung+Drama+Alam,+BIS+ANNEX/data=!4m7!3m6!1s0x3031bf6cf290883d:0x9a1308e1dede18ad!8m2!3d2.8154817!4d98.7812023!16s%2Fg%2F11fky0x1_d!19sChIJPYiQ8my_MTARrRje3uEIE5o?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPMlOE2E5JR_yVeRtpcs1Kuj__2MH-U8i6Qq0Cc=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\PDA Panggung Drama Alam, BIS ANNEX_1745853621.jpg",
+    "rating": 3.6,
+    "reviews": 8,
+    "address": "RQ8J+5FW, Bukit Indah Simarjarunjung Annex PDA Panggung Drama Alam",
+    "opening_hours": "Open 24 hours"
+  },
+  {
+    "title": "PURBA_VILLAGE",
+    "link": "https://www.google.com/maps/place/PURBA_VILLAGE/data=!4m7!3m6!1s0x3031fb6ea5470613:0xd205cf40f3179b40!8m2!3d2.5235146!4d99.034784!16s%2Fg%2F11t6nhdx61!19sChIJEwZHpW77MTARQJsX80DPBdI?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNjGVjWPBJXjn5TlmEwuqNwk9lFUxtZATpPELG3=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\PURBA_VILLAGE_1745853623.jpg",
+    "rating": 5.0,
+    "reviews": 2,
+    "address": "G2FM+MX9"
+  },
+  {
+    "title": "Air terjun Maduma",
+    "link": "https://www.google.com/maps/place/Air+terjun+Maduma/data=!4m7!3m6!1s0x3031b94da1b44253:0x3682cc23e90e731c!8m2!3d2.7235532!4d98.7508702!16s%2Fg%2F11txknnnmk!19sChIJU0K0oU25MTARHHMO6SPMgjY?authuser=0&hl=en&rclk=1",
+    "address": ""
+  },
+  {
+    "title": "Sibea Bea",
+    "link": "https://www.google.com/maps/place/Sibea+Bea/data=!4m7!3m6!1s0x3031db8b55e9c7bf:0x1c0822019c0406c5!8m2!3d2.550654!4d98.6706611!16s%2Fg%2F11rn7cq99n!19sChIJv8fpVYvbMTARxQYEnAEiCBw?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPLedufeT2l4BysJ_U8Tw4Yh5UGVUeouDQfwArj=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Sibea Bea_1745853627.jpg",
+    "rating": 4.6,
+    "reviews": 12,
+    "address": "HM2C+77"
+  },
+  {
+    "title": "Toba Silalahi camping ground",
+    "link": "https://www.google.com/maps/place/Toba+Silalahi+camping+ground/data=!4m7!3m6!1s0x3031b3ebd91db847:0xafaacfa16ce3bb0c!8m2!3d2.8310398!4d98.527017!16s%2Fg%2F11r8zyc6z7!19sChIJR7gd2euzMTARDLvjbKHPqq8?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMMQxsxTY0_JTBG6LDyVfESU8cqrL-pw1in3xXS=w104-h92-k-no",
+    "local_image_path": "gmaps_images\\Toba Silalahi camping ground_1745853630.jpg",
+    "rating": 5.0,
+    "reviews": 3,
+    "address": "RGJG+CR6, Jalan Raja"
+  }
+]
