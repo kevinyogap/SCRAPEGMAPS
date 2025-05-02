@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Hill of Gibeon",
+    "link": "https://www.google.com/maps/place/Hill+of+Gibeon/data=!4m7!3m6!1s0x3031eff6c71c6fd7:0x56ef2b4447dda14!8m2!3d2.5908281!4d98.9978528!16s%2Fg%2F11d_8bbvln!19sChIJ128cx_bvMTARFNp9RLTybgU?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPDPiKk9TGr809tX5lR6kNDbH8rVrgM-Q6r-zL9=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Hill of Gibeon_1746164008.jpg",
+    "rating": 4.5,
+    "reviews": 457,
+    "opening_hours": "Open 24 hours",
+    "address": "Address: Unnamed Road, Kabupaten Toba Samosir, 21174, Sionggang Utara, Kec. Lumban Julu, Toba, Sumatera Utara 21174 ",
+    "latitude": 2.6882571,
+    "longitude": 98.8087701
+  },
+  {
+    "title": "Situmurun Waterfall",
+    "link": "https://www.google.com/maps/place/Situmurun+Waterfall/data=!4m7!3m6!1s0x3031e4cdf02698d9:0x4e813a548e5424a9!8m2!3d2.5374301!4d99.0079819!16s%2Fg%2F11cms94bnf!19sChIJ2Zgm8M3kMTARqSRUjlQ6gU4?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPp9gUrzyOEvJ4o68HAYqlSpjEWvI2L66WE17_-=w80-h106-k-no",
+    "local_image_path": "gmaps_images\\Situmurun Waterfall_1746164014.jpg",
+    "rating": 4.6,
+    "reviews": 553,
+    "opening_hours": "Open",
+    "address": "Address: Jonggi Nihuta, Hatinggian, Kec. Lumban Julu, Toba, Sumatera Utara 22386 ",
+    "latitude": 2.6889208,
+    "longitude": 98.8087695
+  },
+  {
+    "title": "Danau Toba Parapat",
+    "link": "https://www.google.com/maps/place/Danau+Toba+Parapat/data=!4m7!3m6!1s0x3031ec0aec8857d1:0x64c153b8e68294d4!8m2!3d2.68382!4d98.926076!16s%2Fg%2F11ckr980kr!19sChIJ0VeI7ArsMTAR1JSC5rhTwWQ?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMPHg_gBWuHX-nq-P444RoNYSUUg2FdaVZXmeKr=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Danau Toba Parapat_1746164021.jpg",
+    "rating": 4.7,
+    "reviews": 512,
+    "opening_hours": "Open 24 hours",
+    "address": "Address: MWMG+GCG, Jl. Siborongborong - Parapat, Sibaganding, Kec. Girsang Sipangan Bolon, Kabupaten Simalungun, Sumatera Utara 21174 ",
+    "latitude": 2.6882571,
+    "longitude": 98.8087701
+  },
+  {
+    "title": "Pantai Ikan Mas Tandarabun",
+    "link": "https://www.google.com/maps/place/Pantai+Ikan+Mas+Tandarabun/data=!4m7!3m6!1s0x3031c7b013e36ff5:0xe1ea0142aa540fb0!8m2!3d2.7161063!4d98.6917194!16s%2Fg%2F11gf9krswg!19sChIJ9W_jE7DHMTARsA9UqkIB6uE?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMXJSxQUDapWeKY-Z9ATv4uuHioXi0KfpIWt74=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Ikan Mas Tandarabun_1746164027.jpg",
+    "rating": 4.6,
+    "reviews": 612,
+    "opening_hours": "Open",
+    "address": "Address: Dosroha, Simanindo, Samosir Regency, North Sumatra ",
+    "latitude": 2.7161063,
+    "longitude": 98.3868488
+  },
+  {
+    "title": "Bukit Burung",
+    "link": "https://www.google.com/maps/place/Bukit+Burung/data=!4m7!3m6!1s0x3031cf7ece9fab7f:0xc7cbbe47e41a27f4!8m2!3d2.6316978!4d98.6549115!16s%2Fg%2F11df3ncssj!19sChIJf6ufzn7PMTAR9Cca5Ee-y8c?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipP4Sq0gdE9VtEe9ydDPuCUx3hcCMErbOU-YEzCj=w163-h92-k-no",
+    "local_image_path": "gmaps_images\\Bukit Burung_1746164034.jpg",
+    "rating": 4.7,
+    "reviews": 141,
+    "opening_hours": "Open 24 hours",
+    "address": "Address: JMJ3+MXF, Siboro, Sianjur Mula Mula, Samosir Regency, North Sumatra ",
+    "latitude": 2.6316978,
+    "longitude": 98.3500409
+  },
+  {
+    "title": "Pantai Batuhoda",
+    "link": "https://www.google.com/maps/place/Pantai+Batuhoda/data=!4m7!3m6!1s0x3031c715b0bed547:0x346964c80c83147!8m2!3d2.759845!4d98.725414!16s%2Fg%2F11rtsn0zhj!19sChIJR9W-sBXHMTARRzHIgEyWRgM?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipMZok2q_VSH_NAreYjIVW9PLm636pD1zUvq9Id2=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Pantai Batuhoda_1746164040.jpg",
+    "rating": 4.5,
+    "reviews": 425,
+    "opening_hours": "Open",
+    "address": "Address: JL. Raya, Cinta Dame, Simanindo, Kabupaten Samosir, Sumatera Utara 22395 ",
+    "website": "http://bhbbatuhoda.com/",
+    "latitude": 2.759845,
+    "longitude": 98.4205434
+  },
+  {
+    "title": "Gunung Pusuk Buhit",
+    "link": "https://www.google.com/maps/place/Gunung+Pusuk+Buhit/data=!4m7!3m6!1s0x3031cf7595647c91:0x8e1aea7d8321e10f!8m2!3d2.6005483!4d98.6515671!16s%2Fg%2F11fk1rcfgj!19sChIJkXxklXXPMTARD-Ehg33qGo4?authuser=0&hl=en&rclk=1",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipN0sWhWJuBTZfT9yvv6q0sQNvaKD9Zuea1TXhbP=w122-h92-k-no",
+    "local_image_path": "gmaps_images\\Gunung Pusuk Buhit_1746164047.jpg",
+    "rating": 4.8,
+    "reviews": 89,
+    "opening_hours": "Open 24 hours",
+    "address": "Address: JM22+6J8, Ginolat, Sianjur Mula Mula, Samosir Regency, North Sumatra 22396 ",
+    "latitude": 2.6005483,
+    "longitude": 98.3466965
+  }
+]

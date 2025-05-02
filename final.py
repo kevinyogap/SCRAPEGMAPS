@@ -185,15 +185,31 @@ def scrape_google_maps(keyword, proxy_address):
                 except Exception as e:
                     print(f"  Error judul: {e}")
                     continue  # Skip jika tidak ada judul
+
+
                 
                 try:
                     # Ambil link Google Maps
                     link_element = item.find_element(By.CSS_SELECTOR, "a.hfpxzc")
                     data['link'] = link_element.get_attribute('href')
                     print(f"  Link: {data['link'][:50]}...")
+                    
                 except Exception as e:
                     print(f"  Error link: {e}")
-                
+
+                try:
+                    # Koordinat biasanya ada di URL
+                    current_url = driver.current_url
+                    coords_match = re.search(r'@(-?\d+\.\d+),(-?\d+\.\d+)', current_url)
+                    if coords_match:
+                        data['latitude'] = float(coords_match.group(1))
+                        data['longitude'] = float(coords_match.group(2))
+                        print(f"  Koordinat: {data['latitude']}, {data['longitude']}")
+                except Exception as e:
+                    print(f"  Error saat mengambil koordinat: {e}")
+                    
+
+                    
                 try:
                     # Ambil gambar
                     img_element = item.find_element(By.CSS_SELECTOR, "img[src^='https://lh3.googleusercontent.com']")
@@ -201,11 +217,11 @@ def scrape_google_maps(keyword, proxy_address):
                     data['image_url'] = img_url
                     print(f"  URL Gambar: {img_url[:50]}...")
                     
-                    # Download gambar
-                    if img_url:
-                        img_path = download_image(img_url, images_folder, data['title'])
-                        if img_path:
-                            data['local_image_path'] = img_path
+                    # # Download gambar
+                    # if img_url:
+                    #     img_path = download_image(img_url, images_folder, data['title'])
+                    #     if img_path:
+                    #         data['local_image_path'] = img_path
                 except Exception as e:
                     print(f"  Error gambar: {e}")
                 
@@ -293,7 +309,7 @@ def scrape_google_maps(keyword, proxy_address):
 
 def main():
     # Kata kunci yang akan dicari
-    keyword = "wisata dekat danau toba"  # Keyword pencarian
+    keyword = "wisata dekat danau toba"  # Keyword pencarian: "wisata dekat danau toba"
     
     # Pilih proxy secara acak dari daftar
     proxy = random.choice(proxy_list)
